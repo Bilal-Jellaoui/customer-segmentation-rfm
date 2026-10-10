@@ -217,7 +217,7 @@ customer-segmentation-rfm/
 
 ## 👤 Auteur
 
-**Bilal Jellaoui** · [GitHub](https://github.com/Bilal-Jellaoui) · [LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
+**Bilal Jellaoui** · [GitHub](https://github.com/Bilal-Jellaoui) · [LinkedIn](https://www.linkedin.com/in/bilal-jellaoui-381594170)
 
 Master Big Data, IA & Applications Avancées : Université Ibn Tofaïl, Faculté des Sciences de Kénitra · 2025–2026
 Module : Data Mining · Encadrante : Prof. Sanae Baqqass
