@@ -220,6 +220,6 @@ customer-segmentation-rfm/
 **Bilal Jellaoui** · [GitHub](https://github.com/Bilal-Jellaoui) · [LinkedIn](https://www.linkedin.com/in/bilal-jellaoui-381594170)
 
 Master Big Data, IA & Applications Avancées : Université Ibn Tofaïl, Faculté des Sciences de Kénitra · 2025–2026
-Module : Data Mining · Encadrante : Prof. Sanae Baqqass
+Module : Data Mining · Encadrante : Prof. Sanae Baqqass · [LinkedIn](https://www.linkedin.com/in/sanae-baqqass-1a88a4206)
 
 🎯 *À la recherche d'un stage de PFE en 2027 : Data Science & Analytics · Machine Learning & Deep Learning · Python · SQL · Big Data.*
